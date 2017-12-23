@@ -1,0 +1,5 @@
+baseURL = "https://nhamlh.github.io/"
+languageCode = "en-us"
+title = "Nham H. Le Personal Blog"
+theme = "minimal"
+publishDir = "public"
