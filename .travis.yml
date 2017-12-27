@@ -12,6 +12,7 @@ install:
 # Build the website
 script:
   - ./bin/hugo --theme=minimal
+  - echo "# nhamlh.github.io" > public/README.md
 
 # Deploy to GitHub pages
 deploy:
